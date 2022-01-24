@@ -1,0 +1,10 @@
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb

@@ -4,6 +4,7 @@ C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\En
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\EntityFramework.dll
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll

@@ -1,5 +1,3 @@
-C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.AssemblyReference.cache
-C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll.config
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.pdb
@@ -109,6 +107,8 @@ C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "irNKIspEjB6cAAwmA0cnTTvBdbYz5EUQ8v2i8GLUO3h7k0s1SZVluqGobaIHo2bGM05n81MiI4lwKjnrOLewrQ==",
+  "dgSpecHash": "T4EMYtaM/HpTCF+W2YAiS43gWT2DXkVh6L64LQk6oZWdI4qorzmC/h+s7zFyPesf7S6Tl0iUJ3q6LXpif584SQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tristan\\source\\repos\\ElevenNote.WebMVC\\ElevenNote.Services\\ElevenNote.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tristan\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Tristan\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
     "C:\\Users\\Tristan\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
     "C:\\Users\\Tristan\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512"
   ],

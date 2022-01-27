@@ -8,4 +8,3 @@ C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\Elev
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
-C:\Users\Tristan\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache

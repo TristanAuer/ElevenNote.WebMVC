@@ -10,6 +10,7 @@ namespace ElevenNote.Data
     public class Note
     {
         [Key]
+        [Display(Name = "NoteId")]
         public int NoteId { get; set; }
         [Required]
         public Guid OwnerId { get; set; }
